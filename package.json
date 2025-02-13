@@ -1,0 +1,21 @@
+{
+  "name": "cli-task-manager",
+  "version": "1.0.0",
+  "description": "A new way to organize your tasks and time, (Practice project of node.js)",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "nodejs",
+    "cli"
+  ],
+  "author": "Sneidervrod",
+  "license": "ISC",
+  "bin": {
+    "vakis": "./bin/index.js"
+  },
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
