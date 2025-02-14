@@ -1,22 +1,6 @@
 [
   {
     "id": 1,
-    "tarea": "Configurar red de la oficina"
-  },
-  {
-    "id": 3,
-    "tarea": "Implementar permisos en Laravel"
-  },
-  {
-    "id": 4,
-    "tarea": "Conectar chatbot a la API de Odoo"
-  },
-  {
-    "id": 6,
-    "tarea": "asdfasdf"
-  },
-  {
-    "id": 7,
-    "tarea": "Terminar el cli"
+    "tarea": "Primera tarea actualizada"
   }
 ]
